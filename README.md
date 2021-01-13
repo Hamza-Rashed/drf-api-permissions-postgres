@@ -1,5 +1,3 @@
-[Repo](https://github.com/Mohammadnim123/drf_api)
-[PR1](https://github.com/Mohammadnim123/drf_api/pull/1)
 
 # Overview
 
